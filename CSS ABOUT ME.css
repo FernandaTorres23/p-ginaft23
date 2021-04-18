@@ -1,0 +1,93 @@
+body{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: #000000;
+	font-size: 1.3rem;
+	line-height: 1.2em;
+	margin: 0;
+}
+h1{
+	color: #AB6A82;
+	line-height: 1em;
+	font-size: 3rem;
+	font-family: 'Montserrat', sans-serif;
+}
+h2{
+	color: #000000;
+	font-size: 1.5rem;
+	font-family: 'Montserrat', sans-serif;
+}
+p{
+margin-bottom: 1.6em;
+	text-align: justify;
+	
+font-family: 'Montserrat', sans-serif;
+}
+
+.container{
+	width: 100%;
+	
+	margin: 0 auto;
+	
+}
+.container2{
+	width: 50%;
+	max-width: 500px;
+	margin-left: 250px;
+	margin-top: 275px;
+	align-content: right;
+}
+.header{
+	background: #AB6A82;
+	color: #FFFFFF;
+	padding: 2rem 0;
+	
+}
+
+
+.header a{
+	color: #FFFFFF;
+	text-decoration: none
+}
+.logo-nav-container{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	
+	
+	
+}
+.aboutme{
+	letter-spacing:15px;
+	font-size:30px;
+	margin-left: 250px;
+	
+font-family: 'Montserrat', sans-serif;
+}
+.navegation ul{
+	marging:0;
+	padding: 0;
+	list-style: none;
+	
+}
+.navegation ul li{
+	display: inline-block;
+	margin-right: 100px;
+}
+.navegation ul li a{
+	display: block;
+	padding: 0.5rem 1rem;
+	font-family: 'Montserrat', sans-serif;
+}
+.navegation ul li a:hover{
+	background: #D2AFBC; 
+	
+}
+.imagen{
+	
+	float: right;
+	
+	
+}
+.footer{
+	
+}
